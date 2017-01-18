@@ -5,5 +5,5 @@ How to use it and how to [think](https://facebook.github.io/react/docs/thinking-
 Also, we're building a good one [Wiki](https://github.com/nncl/react-dev-tools/wiki) about all of this.
 
 ## Pages
-
+- [Installing](https://github.com/nncl/react-dev-tools/wiki#installing)
 - [Tips](https://github.com/nncl/react-dev-tools/wiki#tips)
