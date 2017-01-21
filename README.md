@@ -6,5 +6,10 @@ Also, we're building a good one [Wiki](https://github.com/nncl/react-dev-tools/w
 
 ## Pages
 - [Installing](https://github.com/nncl/react-dev-tools/wiki#installing)
-- [Tips](https://github.com/nncl/react-dev-tools/wiki#tips) such as architeture, Autobinding & this...
+- [Tips](https://github.com/nncl/react-dev-tools/wiki#tips)
+	- [Auto Binding](https://github.com/nncl/react-dev-tools/wiki#auto-binding)
+	- [Separation of Concerns](https://github.com/nncl/react-dev-tools/wiki#separation-of-concerns)
+	- [Virtual DOM](https://github.com/nncl/react-dev-tools/wiki#virtual-dom)
+	- [WHAT SHOULD NOT GO IN STATE](https://github.com/nncl/react-dev-tools/wiki#what-should-not-go-in-state)
+	- [Notes](https://github.com/nncl/react-dev-tools/wiki#notes)
 - [Important Notes About React](https://github.com/nncl/react-dev-tools/wiki#important-notes-about-react)
