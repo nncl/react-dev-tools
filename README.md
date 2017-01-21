@@ -6,5 +6,5 @@ Also, we're building a good one [Wiki](https://github.com/nncl/react-dev-tools/w
 
 ## Pages
 - [Installing](https://github.com/nncl/react-dev-tools/wiki#installing)
-- [Tips](https://github.com/nncl/react-dev-tools/wiki#tips)
+- [Tips](https://github.com/nncl/react-dev-tools/wiki#tips) such as architeture, Autobinding & this...
 - [Important Notes About React](https://github.com/nncl/react-dev-tools/wiki#important-notes-about-react)
