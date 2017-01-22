@@ -12,5 +12,6 @@ Also, we're building a good one [Wiki](https://github.com/nncl/react-dev-tools/w
 	- [Virtual DOM](https://github.com/nncl/react-dev-tools/wiki#virtual-dom)
 	- [WHAT SHOULD NOT GO IN STATE](https://github.com/nncl/react-dev-tools/wiki#what-should-not-go-in-state)
 	- [Events & Supported Events](https://github.com/nncl/react-dev-tools/wiki#events--supported-events)
+	 - [Synthetic Event](https://github.com/nncl/react-dev-tools/wiki#syntheticevent)
 	- [Notes](https://github.com/nncl/react-dev-tools/wiki#notes)
 - [Important Notes About React](https://github.com/nncl/react-dev-tools/wiki#important-notes-about-react)
